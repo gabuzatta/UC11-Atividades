@@ -1,0 +1,11 @@
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-attrs
+
+# Arquivos do sistema
+.DS_Store
+*~
