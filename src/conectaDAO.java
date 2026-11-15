@@ -25,7 +25,7 @@ public class conectaDAO {
             conn = DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/uc11?useSSL=false",
                 "root",
-                "Ae123456" // senha do seu MySQL local
+                "Ae123456" // senha do banco MySQL
             );
                     
         } catch (SQLException erro){
